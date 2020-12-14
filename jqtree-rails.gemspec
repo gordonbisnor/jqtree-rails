@@ -5,11 +5,11 @@ Gem::Specification.new do |s|
   s.name        = 'jqtree-rails'
   s.version     = JqTree::Rails::VERSION
   s.license     = 'MIT'
-  s.authors     = ['Ryan Scott Lewis', 'Mario Uher']
-  s.email       = ['ryan@rynet.us', 'uher.mario@gmail.com']
-  s.homepage    = 'https://github.com/RyanScottLewis/jqtree-rails'
-  s.summary     = 'Use jqTree with Rails 3'
-  s.description = 'This gem provides jqTree assets for your Rails 3 application.'
+  s.authors     = ['Ryan Scott Lewis', 'Mario Uher', 'Gordon B. Isnor']
+  s.email       = ['ryan@rynet.us', 'uher.mario@gmail.com', 'gordonbisnor@gmail.com]
+  s.homepage    = 'https://github.com/gordonbisnor/jqtree-rails'
+  s.summary     = 'Use jqTree with Rails 6.1'
+  s.description = 'This gem provides jqTree assets for your Rails 6 application.'
 
   s.required_rubygems_version = '>= 1.3.6'
 
