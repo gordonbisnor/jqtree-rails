@@ -6,7 +6,7 @@ Gem::Specification.new do |s|
   s.version     = JqTree::Rails::VERSION
   s.license     = 'MIT'
   s.authors     = ['Ryan Scott Lewis', 'Mario Uher', 'Gordon B. Isnor']
-  s.email       = ['ryan@rynet.us', 'uher.mario@gmail.com', 'gordonbisnor@gmail.com]
+  s.email       = ['ryan@rynet.us', 'uher.mario@gmail.com', 'gordonbisnor@gmail.com']
   s.homepage    = 'https://github.com/gordonbisnor/jqtree-rails'
   s.summary     = 'Use jqTree with Rails 6.1'
   s.description = 'This gem provides jqTree assets for your Rails 6 application.'
